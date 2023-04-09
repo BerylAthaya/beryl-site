@@ -1,0 +1,15 @@
+.color-special{
+    background-color: rgb(247, 223, 231);
+
+
+.home{
+background: url(/a);
+}
+
+.main{
+    background: url(a/cat.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    
+}
